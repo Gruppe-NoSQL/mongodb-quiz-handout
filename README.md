@@ -1,6 +1,18 @@
 # Gruppe 'NoSQL'-Handout
+## Allgemeines:
 
-## Bestandteile einer Graphdatenbank:
+- NoSQL: Not only SQL
+- Viele Unterschiede die Abhängig vom DB-Modell sind
+- NoSQL ist eine Sammelbezeichnung für nicht-relationale Datenbaken
+
+#### SQL vs. NoSQL
+
+- Einfügen neuer Attribute ist ohne Änderung der ganzen Struktur möglich
+- Unterschied bei Schreib-und Leseanfragen, SQL wartet bis Anfragen abgeschlossen sind bevor weitere ausgeführt werden, NoSQL führt Anfragen gleichzeitig aus
+- SQL: **A**tomic **C**onsistent **I**solated **D**urable
+- NoSQL: **B**asic **A**vailibility **S**oftstate **E**ventual Consistency
+
+## Graphdatenbanken:
 - Knoten: Entität (eindeutig identifizierbares, einzelnes Informationsobjekt)
 - Kanten: Relation zwischen Entitäten
 - Eigenschaft: Knoten und Kanten können Eigenschaften haben
@@ -56,7 +68,8 @@ UPDATE tableName SET columnName = columnName * 1.03;
 ## Anwendung von NoSQL-Datenbanken
 - Datenbanksysteme sind häufig auf indiviudelle Anwendungsfälle abgestimmt
 - Auswahlentscheidung muss sehr situationsabhängig getroffen werden
-- 
+- Felxibilität im Datenbank Schema erhöht Flexibilität von Projekten
+- Starke Verbindung zwischen DB und Programmiersprachen
 
 
 - [Sammlung von NoSQL-Datenbanken](https://hostingdata.co.uk/nosql-database/)
@@ -67,6 +80,8 @@ UPDATE tableName SET columnName = columnName * 1.03;
 - Robin Reyer | 1275865
 - Maik Kebernik | 6172455
 - Fynn Weyrich | 9818779
+- Matthias Biermanns | 2679565
+
 
 #### Links zu unseren Repositories und Aufteilung der Arbeit:
  - [Frontend](https://github.com/Gruppe-NoSQL/mongodb-quiz-frontend) - Matthias, Maik, Fynn
