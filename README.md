@@ -15,6 +15,7 @@ RETURN
 ```
 
 Gibt alle Dörfer aus, in denen ein Max wohnt, der in Ulmen geboren wurde. Das Dorf muss zusätzlich auch eine Verbindung (Straße) nach Ulm haben.
+![Bild Graphdatenbanken](graph.png)
 
 ## Key-Value Datenbank
 - Unterteilt in collections (Sammlungen von Wertepaaren)
