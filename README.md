@@ -66,12 +66,13 @@ UPDATE tableName SET columnName = columnName * 1.03;
 ```
 
 ## Anwendung von NoSQL-Datenbanken
+#### Vorteile
 - Datenbanksysteme sind häufig auf indiviudelle Anwendungsfälle abgestimmt
-- Auswahlentscheidung muss sehr situationsabhängig getroffen werden
-- Felxibilität im Datenbank Schema erhöht Flexibilität von Projekten
-- Starke Verbindung zwischen DB und Programmiersprachen
+- Datenbanksysteme werden durch nützliche Zusatzfunktionen ergänzt
+- Felxibilität im Datenbank-Schema erhöht Flexibilität von Projekten
+- Starke Verbindung zwischen DB und Programmiersprachen - dadurch leichte Erlernbarkeit und beliebt bei Entwicklern
 
-
+#### Weiteres
 - [Sammlung von NoSQL-Datenbanken](https://hostingdata.co.uk/nosql-database/)
 
 ## Informationen zur Gruppe
