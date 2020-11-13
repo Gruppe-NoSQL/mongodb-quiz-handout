@@ -81,6 +81,7 @@ UPDATE tableName SET columnName = columnName * 1.03;
 - Maik Kebernik | 6172455
 - Fynn Weyrich | 9818779
 - Matthias Biermanns | 2679565
+- Florian Hase | 9444910
 
 
 #### Links zu unseren Repositories und Aufteilung der Arbeit:
